@@ -1,0 +1,6 @@
+.idea
+*.iml
+zuul-core/target
+zuul-game/target
+repository/target
+tetris-3d/target
